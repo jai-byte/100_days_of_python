@@ -13,4 +13,3 @@
 
 #how to concatinate a string with another string.
 #print("Hello"+" "+"\nJai")
-
