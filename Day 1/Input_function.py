@@ -11,7 +11,3 @@ print("Hello " + name)
 # num1 = int(input("First Digit "))
 # num2 = int(input("Second Digit "))
 # print("Multiplication of given digits =", num1 * num2)
-
-
-
-
